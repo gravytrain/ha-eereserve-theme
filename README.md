@@ -43,3 +43,7 @@ The generic `home-ui-*` palette retains the graphite/brass Meter Register look.
 The mode-specific `home-ui-management-*` palette retains the Farmhouse Ledger
 olive/parchment light and dark treatments formerly selected with the private
 `theme: farm` card option.
+
+## License
+
+EEReserve is available under the [MIT License](LICENSE).
